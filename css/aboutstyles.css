@@ -1,0 +1,38 @@
+.footer{
+	background-color:#d1c4e9;
+	margin:0 auto;
+	padding:20px 0px 20px 0px;
+}
+.jumbotron{
+	padding: 70px 30px 70px 30px;
+	margin: 0px auto;
+	background:#9575cd;
+	color: floralwhite;
+}
+.row-head{
+	margin: 0px auto;
+	padding: 70px 0px 70px 0px;
+	border-bottom: 1px ridge;
+}
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+
+}
+.row-header{
+	padding: 0px;
+	margin: 0px auto;
+}
+body{
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+}
+.navbar-dark{
+	background: #512da8 !important;
+}
+.tab-content{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px; 
+}
